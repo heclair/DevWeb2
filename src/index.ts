@@ -1,3 +1,2 @@
-let x:number;
-x = 1;
+let x:any;
 console.log(typeof x);
