@@ -4,8 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx ts-node ./src/index",
-    "ex01" : "npx ts-node ./src/ex01"
+    "start": "npx ts-node ./src/aula01/index",
+    "ex01" : "npx ts-node ./src/aula01/ex01",
+    "ex02" : "npx ts-node ./src//aula01/ex02",
+    "ex03" : "npx ts-node ./src/aula01/ex03",
+    "ex04" : "npx ts-node ./src/aula01/ex04",
+    "index02" : "npx ts-node ./src/aula02/index02",
+    "ex01" : "npx ts-node ./src/aula02/ex01",
+    "ex02" : "npx ts-node ./src/aula02/ex02"
   },
   "keywords": [],
   "author": "",
