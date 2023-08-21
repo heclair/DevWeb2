@@ -1,4 +1,3 @@
-const dif = function somar(a: number, b: number): number {
-  return a + b;
-};
-console.log(dif(2, 3));
+(function (a:number, b:number) {
+  console.log('A soma é:', a + b);
+})(5, 7);

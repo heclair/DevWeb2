@@ -5,15 +5,18 @@
   "main": "index.js",
   "scripts": {
     "start": "npx ts-node ./src/aula01/index",
-    "ex01" : "npx ts-node ./src/aula01/ex01",
-    "ex02" : "npx ts-node ./src//aula01/ex02",
-    "ex03" : "npx ts-node ./src/aula01/ex03",
-    "ex04" : "npx ts-node ./src/aula01/ex04",
-    "ex05" : "npx ts-node ./src/aula01/ex05",
-    "ex06" : "npx ts-node ./src/aula01/ex06",
-    "index02" : "npx ts-node ./src/aula02/index02",
-    "a2ex01" : "npx ts-node ./src/aula02/a2ex01",
-    "a2ex02" : "npx ts-node ./src/aula02/a2ex02"
+    "ex01": "npx ts-node ./src/aula01/ex01",
+    "ex02": "npx ts-node ./src//aula01/ex02",
+    "ex03": "npx ts-node ./src/aula01/ex03",
+    "ex04": "npx ts-node ./src/aula01/ex04",
+    "ex05": "npx ts-node ./src/aula01/ex05",
+    "ex06": "npx ts-node ./src/aula01/ex06",
+    "ex07": "npx ts-node ./src/aula01/ex07",
+    "ex08": "npx ts-node ./src/aula01/ex08",
+    "ex09": "npx ts-node ./src/aula01/ex09",
+    "index02": "npx ts-node ./src/aula02/index02",
+    "a2ex01": "npx ts-node ./src/aula02/a2ex01",
+    "a2ex02": "npx ts-node ./src/aula02/a2ex02"
   },
   "keywords": [],
   "author": "",
@@ -21,5 +24,8 @@
   "devDependencies": {
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
   }
 }
