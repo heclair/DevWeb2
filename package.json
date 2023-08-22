@@ -14,6 +14,7 @@
     "ex07": "npx ts-node ./src/aula01/ex07",
     "ex08": "npx ts-node ./src/aula01/ex08",
     "ex09": "npx ts-node ./src/aula01/ex09",
+    "ex10": "npx ts-node ./src/aula01/ex10",
     "index02": "npx ts-node ./src/aula02/index02",
     "a2ex01": "npx ts-node ./src/aula02/a2ex01",
     "a2ex02": "npx ts-node ./src/aula02/a2ex02"
